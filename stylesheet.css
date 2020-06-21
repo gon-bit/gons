@@ -22,3 +22,6 @@ body {
   opacity: 0.8;
   margin-bottom: 15px;
 }
+.destinasi li {
+  float:left;
+}
